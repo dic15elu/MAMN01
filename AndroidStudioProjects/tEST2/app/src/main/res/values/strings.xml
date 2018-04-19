@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="compass_button">Compass</string>
+    <string name="edit_message">Sensors</string>
+    <string name="compass_view">CompassView</string>
+    <string name="accelerator_button">Accelerator</string>
+    <string name="message">Choose sensor(s) to test:</string>
+    <string name="accelerometer_message">Accelerometer values:</string>
+    <string name="accelerator_message">Accelerator values:</string>
+    <string name="todo">TODO</string>
+    <string name="_0">0°</string>
+    <string name="textview">TextView</string>
+    <string name="X">TextView</string>
+    <string name="Y">TextView</string>
+    <string name="Z">TextView</string>
+
+</resources>
